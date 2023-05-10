@@ -13,7 +13,7 @@ require (
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/iavl v0.17.3
 	github.com/cosmos/ledger-cosmos-go v0.11.1
-	github.com/xblackfury/furyint v0.1.0-alpha.0.20221222095548-8ec3b084475a
+	github.com/furychain/furyint v0.1.1-alpha
 	github.com/gogo/gateway v1.1.0
 	github.com/gogo/protobuf v1.3.3
 	github.com/golang/mock v1.6.0
@@ -83,8 +83,8 @@ require (
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.1-0.20200219035652-afde56e7acac // indirect
 	github.com/dvsekhvalnov/jose2go v1.5.0 // indirect
-	github.com/xblackfury/cosmosclient v0.2.0-alpha // indirect
-	github.com/xblackfury/furya v0.1.0-alpha.0.20221222094743-771d37d941db // indirect
+	github.com/furychain/cosmosclient v0.2.1-alpha // indirect
+	github.com/furychain/furya v0.1.1-alpha // indirect
 	github.com/elastic/gosigar v0.14.2 // indirect
 	github.com/felixge/httpsnoop v1.0.2 // indirect
 	github.com/flynn/noise v1.0.0 // indirect

@@ -30,10 +30,10 @@ import (
 	"github.com/cosmos/cosmos-sdk/server/types"
 	storetypes "github.com/cosmos/cosmos-sdk/store/types"
 
-	furyintconf "github.com/xblackfury/furyint/config"
-	furyintconv "github.com/xblackfury/furyint/conv"
-	furyintnode "github.com/xblackfury/furyint/node"
-	furyintrpc "github.com/xblackfury/furyint/rpc"
+	furyintconf "github.com/furychain/furyint/config"
+	furyintconv "github.com/furychain/furyint/conv"
+	furyintnode "github.com/furychain/furyint/node"
+	furyintrpc "github.com/furychain/furyint/rpc"
 )
 
 const (
